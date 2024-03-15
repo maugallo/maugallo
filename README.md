@@ -30,15 +30,11 @@ Hi! My name is Mauro and I'm a Software Developer based in Buenos Aires, Argenti
     <img  alt="ASP .NET" height="50px" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg"/>
 </div>
 
-### Database Management
-
-<div align="center">
-    <img  alt="SQLServer" height="50px" src="https://tribes.agency/wp-content/uploads/2023/10/ext-550.png"/>
-</div>
-
 ### Tools & Platforms
 
 <div align="center">
+    <img  alt="SQLServer" height="50px" src="https://tribes.agency/wp-content/uploads/2023/10/ext-550.png"/>
+    &nbsp;&nbsp;
     <img  alt="VS Code" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
     &nbsp;&nbsp;
     <img  alt="Visual Studio" height="50px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/>

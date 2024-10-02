@@ -39,7 +39,7 @@ Hi! My name is Mauro and I'm a Software Developer based in Buenos Aires, Argenti
     &nbsp;&nbsp;
     <img  alt="Visual Studio" height="50px" src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg"/>
     &nbsp;&nbsp;
-    <img  alt="Eclipse" height="50px" src="https://icon.icepanel.io/Technology/svg/Eclipse-IDE.svg"/>
+    <img  alt="IntelliJ" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png"/>
     &nbsp;&nbsp;
     <img  alt="GitHub" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/>
 </div>

@@ -25,7 +25,7 @@ Hi! My name is Mauro and I'm a Software Developer based in Buenos Aires, Argenti
 <div align="center">
     <img  alt="Spring Boot" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgu8cRVSRm96BF4FEJ4DA9IROZYI1wYR0RRA&usqp=CAU"/>
     &nbsp;&nbsp;
-    <img  alt="Angular" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png"/>
+    <img  alt="Angular" height="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxwhAqWgBBJqpHalyiAfI-2Qaz-AQTbG_7NA&s"/>
     &nbsp;&nbsp;
     <img  alt="ASP .NET" height="50px" src="https://www.simplilearn.com/ice9/free_resources_article_thumb/ASP.NET_logo.jpg"/>
 </div>

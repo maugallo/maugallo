@@ -4,7 +4,7 @@ Hi! My name is Mauro and I'm a Software Developer based in Buenos Aires, Argenti
 
 ## 💻 Skills
 
-### Languages
+### Technologies
 
 <div align="center">
     <img  alt="Java" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>

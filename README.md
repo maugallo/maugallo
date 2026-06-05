@@ -1,9 +1,9 @@
 <h2 align="left">Mauro Gallo</h2>
 
 <p>
-  Frontend Developer focused on <b>Angular</b>, <b>TypeScript</b> and scalable web applications.
+  Full Stack Developer working with <b>Angular</b>, <b>TypeScript</b>, <b>Java</b>, <b>Spring Boot</b> and <b>SQL</b>.
   <br />
-  Currently expanding into full-stack development with <b>Spring Boot</b>, <b>PostgreSQL</b> and real product-oriented projects.
+  Focused on building maintainable, scalable and product-oriented web applications.
   <br />
     
   Based in <b>Buenos Aires, Argentina</b> <img src="https://cdn-icons-png.flaticon.com/128/4628/4628694.png" width="13">.

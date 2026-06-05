@@ -1,9 +1,11 @@
 <h2 align="left">Mauro Gallo</h2>
 
 <p>
-  Full Stack Developer working with <b>Angular</b>, <b>TypeScript</b>, <b>Java</b>, <b>Spring Boot</b> and <b>SQL</b>.
+  Full Stack Developer focused on building maintainable and scalable web applications.
   <br />
-  Focused on building maintainable, scalable and product-oriented web applications.
+  Working mainly with <b>Angular</b>, <b>TypeScript</b>, <b>Java</b>, <b>Spring Boot</b> and <b>SQL</b>.
+  <br />
+  Interested in software architecture, product-oriented development and AI-assisted engineering.
   <br />
     
   Based in <b>Buenos Aires, Argentina</b> <img src="https://cdn-icons-png.flaticon.com/128/4628/4628694.png" width="13">.
